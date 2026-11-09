@@ -1,1 +1,1 @@
-5f3cfef83ca43126298036fbdf6081eae9e1aeb737b5f7de271a827481c5f0e5  PulseWallpaper-v0.1.0-Windows-x64.zip
+889193eb71ec3b660cd08ba382189228e561fe6833e18927956cc130a800b126  PulseWallpaper-v0.1.1-Windows-x64.zip
